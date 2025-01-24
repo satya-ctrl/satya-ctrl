@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 👋 Hi there! I'm a 3rd-year AI/ML Engineering student with a passion for building impactful projects and diving deep into the world of artificial intelligence. My current focus is on deepfake detection, where I'm developing a cutting-edge project and working on a research paper to contribute to this exciting field.<br><br>🌟 Skills & Expertise:<br><br>Machine Learning: Proficient in implementing ML models using libraries like TensorFlow, PyTorch, scikit-learn, and more.<br>Programming Languages: Skilled in Python, Java, and Data Structures & Algorithms (DSA).<br>Project Development: I thrive on creating meaningful projects, leveraging my knowledge to solve real-world problems.<br>Internship Experience: Hands-on exposure to professional environments, strengthening my technical and collaborative skills.<br>🎯 Current Endeavors:<br><br>Working on certifications in Machine Learning to deepen my expertise.<br>Actively researching and innovating in the area of deepfake detection.<br>💡 Let's connect and collaborate on innovative AI/ML projects! 🚀
 
 
