@@ -1,30 +1,51 @@
-<!-- ----- PROFILE BANNER ----- -->
+<!-- ========================= -->
+<!-- 🌊 ANIMATED WAVE HEADER -->
+<!-- ========================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Satya+👋;AI%2FML+Engineering+Student;Deepfake+Detection+Researcher;Full+Stack+%2F+ML+Developer;Welcome+to+my+GitHub+Profile!" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Satya&fontSize=48&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+</p>
+
+<!-- ========================= -->
+<!-- ⌨️ TYPING ANIMATION -->
+<!-- ========================= -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&center=true&vCenter=true&width=700&lines=Hi+There!+I'm+Satya+👋;AI%2FML+Engineering+Student;Deepfake+Detection+Researcher;Full+Stack+%2F+ML+Developer;Building+Secure+AI+Systems;Welcome+to+my+GitHub+Universe!+🚀" />
 </p>
 
 ---
 
-<!-- ----- SOCIAL / FOLLOW BADGES ----- -->
+<!-- ========================= -->
+<!-- 👁️‍🗨️ PROFILE METRICS -->
+<!-- ========================= -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=satya-ctrl&label=Profile+Views&color=brightgreen&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/satya-ctrl?label=Followers&style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/satya-ctrl?label=Stars&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=satya-ctrl&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/satya-ctrl?label=FOLLOWERS&style=for-the-badge&color=brightgreen" />
+  <img src="https://img.shields.io/github/stars/satya-ctrl?label=STARS&style=for-the-badge&color=yellow" />
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-I'm a **3rd-year AI/ML Engineering student** passionate about building intelligent systems, solving real-world problems, and contributing to modern AI research.  
-Currently, I'm working on **Deepfake Detection using AI/ML**, including image, video, and text manipulation identification — supported by research, experiments, and upcoming publications.
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" />
+</p>
 
-### 🌟 What I Do
-- 🔬 AI/ML & Deep Learning research  
-- 🧠 Deepfake Detection (Images, Videos & Text)  
-- 🧑‍💻 Full-stack development (Frontend + Backend + APIs)  
-- 📊 Data Science, EDA & ML model building  
-- ☁ Cloud, DevOps tools & large-scale deployments  
+🎓 **3rd-Year AI/ML Engineering Student**  
+🧠 Passionate about **Artificial Intelligence, Security & Deep Learning**  
+🔍 Researching **Deepfake Detection (Image • Video • Text)**  
+🚀 Focused on **AI for Cybersecurity & Trustworthy ML**
+
+---
+
+## 🌟 What I Do
+
+```diff
++ 🔬 AI / ML & Deep Learning Research
++ 🧠 Deepfake Detection (Image, Video & Text)
++ 🧑‍💻 Full-Stack Development (Frontend + Backend + APIs)
++ 📊 Data Science, EDA & Model Building
++ ☁ Cloud, DevOps & Scalable Deployments
 
 ### 🚀 Current Goals
 - Completing ML certifications  
@@ -110,3 +131,4 @@ Currently, I'm working on **Deepfake Detection using AI/ML**, including image, v
   ✨ *Always learning. Always building. Always improving.* ✨  
 </p>
 
+<!-- ========================= --> <!-- 🌊 FOOTER WAVE --> <!-- ========================= --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" /> </p> <p align="center"> ✨ <i>Always learning. Always building. Always evolving.</i> ✨ </p> ```
