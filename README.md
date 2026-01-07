@@ -66,31 +66,32 @@ Currently, I'm working on **Deepfake Detection using AI/ML**, including image, v
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=satya-ctrl&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=satya-ctrl&theme=dark&hide_border=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satya-ctrl&theme=dark&hide_border=false&layout=compact)
-
----
-
-# 🏆 Achievements & Badges
-![Trophies](https://github-profile-trophy.vercel.app/?username=satya-ctrl&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
-
-# 🐍 Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/satya-ctrl/satya-ctrl/output/github-contribution-grid-snake-dark.svg)
-
-
-
----
-
----
-
-## 🐍 Snake Animation  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/satya-ctrl/satya-ctrl/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-stats.vercel.app/api?username=satya-ctrl&theme=dark&show_icons=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=satya-ctrl&theme=dark" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satya-ctrl&theme=dark&layout=compact" height="160" />
+</p>
+
+---
+
+## 🏆 Achievements & Badges
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=satya-ctrl&theme=radical&no-frame=false&no-bg=false&margin-w=5" />
+</p>
+
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
