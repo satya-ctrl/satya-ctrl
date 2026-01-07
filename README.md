@@ -38,19 +38,14 @@
 
 ---
 
- 🌟 What I Do
+## 🌟 What I Do
 
 ```diff
 + 🔬 AI / ML & Deep Learning Research
 + 🧠 Deepfake Detection (Image, Video & Text)
-+ 🧑‍💻 Full-Stack Development (Frontend + Backend + APIs)
-+ 📊 Data Science, EDA & Model Building
-+ ☁ Cloud, DevOps & Scalable Deployments
-
-🚀 Current Goals
-- Completing ML certifications  
-- Publishing deepfake detection research  
-- Advancing in AI Security & Computer Vision  
++ 🧑‍💻 Full-Stack Development
++ 📊 Data Science & Model Building
++ ☁ Cloud & DevOps
 
 ---
 
