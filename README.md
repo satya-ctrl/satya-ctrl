@@ -49,19 +49,28 @@
 
 ---
 
- ## 💻 Tech Stack
 
-### 🧠 Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+⬆️ **ENDS HERE**  
+⬆️ **This code block MUST be closed**
 
 ---
 
+### ✔️ Tech Stack (NO CODE BLOCK — VERY IMPORTANT)
+
+```md
+## 💻 Tech Stack
+
+### 🧠 Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk)
+![C](https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c)
+
 ### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react)
+
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
