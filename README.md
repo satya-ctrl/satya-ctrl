@@ -49,14 +49,7 @@ diff
 ---
 
 
-⬆️ **ENDS HERE**  
-⬆️ **This code block MUST be closed**
-
----
-
-### ✔️ Tech Stack (NO CODE BLOCK — VERY IMPORTANT)
-
-```md
+md
 ## 💻 Tech Stack
 
 ### 🧠 Languages
