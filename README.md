@@ -31,17 +31,15 @@
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" />
 </p>
 
-🎓 **3rd-Year AI/ML Engineering Student**  
-🧠 Passionate about **Artificial Intelligence, Security & Deep Learning**  
-🔍 Researching **Deepfake Detection (Image • Video • Text)**  
-🚀 Focused on **AI for Cybersecurity & Trustworthy ML**
+🎓 **Final-Year Computer Science Student Student**  
+🧠 Passionate about **Artificial Intelligence, Machine Learning & Deep Learning**  
+🔍 Working on with **FullStack Development**
 
 
 ## 🌟 What I Do
 
 diff
-+ 🔬 AI / ML & Deep Learning Research
-+ 🧠 Deepfake Detection (Image, Video & Text)
++ 🔬 AI / ML & Deep Learning model training
 + 🧑‍💻 Full-Stack Development
 + 📊 Data Science & Model Building
 + ☁ Cloud & DevOps
