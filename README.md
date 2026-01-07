@@ -69,12 +69,12 @@ Currently, I'm working on **Deepfake Detection using AI/ML**, including image, v
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satya-ctrl&theme=dark&show_icons=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=satya-ctrl&theme=dark" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=satya-ctrl&theme=dark&show_icons=true&hide_border=false" height="160px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satya-ctrl&theme=dark&hide_border=false" height="160px" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satya-ctrl&theme=dark&layout=compact" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satya-ctrl&theme=dark&layout=compact&hide_border=false" height="150px" />
 </p>
 
 ---
@@ -82,9 +82,8 @@ Currently, I'm working on **Deepfake Detection using AI/ML**, including image, v
 ## 🏆 Achievements & Badges
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=satya-ctrl&theme=radical&no-frame=false&no-bg=false&margin-w=5" />
+  <img src="https://github-profile-trophy.vercel.app/?username=satya-ctrl&theme=darkhub&no-frame=true&margin-w=5" />
 </p>
-
 
 ---
 
@@ -92,10 +91,4 @@ Currently, I'm working on **Deepfake Detection using AI/ML**, including image, v
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=satya-ctrl&icon=0&color=0" />
 </p>
