@@ -29,7 +29,7 @@ Machine Learning (Scikit-Learn, TensorFlow, PyTorch)
 
 Deep Learning (Neural Networks, CNN, RNN)
 
-AI (NLP, Computer Vision)
+AI ( Computer Vision)
 
 Data Science (Pandas, NumPy, Matplotlib)
 
